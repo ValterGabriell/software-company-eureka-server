@@ -1,5 +1,5 @@
 <h1 align="center">Eureka Server - Empresa de Software</h1>
-<p align="center"><i>Repositório que armazena o discovery server de toda uma estrutura de microserviços para um sistema bancário ficticio.</i></p>
+<p align="center"><i>Repositório que armazena o discovery server de toda uma estrutura de microserviços para uma empresa de software ficticia.</i></p>
 
 ##  Sobre esse projeto
 
