@@ -11,12 +11,16 @@ Este é o primeiro projeto que deve ser rodado ao inciarmos nossa arquitetura de
  <p>Spring Boot</p>
  <p>Spring Cloud</p>
  <p>Eureka Server</p>
+ <p>Docker</p>
+ <p>RabbitMQ</p>
 </p>
                                                                                                    
 <h1>Como usar</h1>
 
 <h2>Prerequisitos</h2>
-<p>Clone ou baixe o repositório e start ele através de sua IDE de preferência rodando o método main da classe principal na pasta raíz da aplicação, feito isso, basta deixar a aplicação rodando para que os microserviços que virão a serem subidos possam se conectar :)</p>
+<p>Deve ser ter instalado em sua máquina o Docker e dentro dele ter uma imagem do RabbitMQ que pode ser adquirida neste <a href="https://www.rabbitmq.com/download.html">link</a>.
+
+<p>Após isso, clone ou baixe o repositório e start ele através de sua IDE de preferência rodando o método main da classe principal na pasta raíz da aplicação, feito isso, basta deixar a aplicação rodando para que os microserviços que virão a serem subidos possam se conectar :)</p>
 
 <h1>Outros repositórios em ordem de inicialização após o Eureka Server estar rodando</h1></br>
 1 -> <a href="https://github.com/ValterGabriell/bank-system-msaccount">Microserviço responsável por criar contas bancárias dos usuários</a></br>
