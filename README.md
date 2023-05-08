@@ -18,7 +18,7 @@ Este é o primeiro projeto que deve ser rodado ao inciarmos nossa arquitetura de
 <h1>Como usar</h1>
 
 <h2>Prerequisitos</h2>
-<p>Deve ser ter instalado em sua máquina o Docker e dentro dele ter uma imagem do RabbitMQ que pode ser adquirida neste <a href="https://www.rabbitmq.com/download.html">link</a>.
+<p>Deve ser ter instalado em sua máquina o Docker e dentro dele ter uma imagem do RabbitMQ que pode ser adquirida neste <a href="https://www.rabbitmq.com/download.html">link</a>. A senha de uso é username: guest e password:guest. O rabbitMQ precisa estar rodando quando as instancias dos serviços levantarem para que as filas possam ser criadas com sucesso!</p>
 
 <p>Após isso, clone ou baixe o repositório e start ele através de sua IDE de preferência rodando o método main da classe principal na pasta raíz da aplicação, feito isso, basta deixar a aplicação rodando para que os microserviços que virão a serem subidos possam se conectar :)</p>
 
