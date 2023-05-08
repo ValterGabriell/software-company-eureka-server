@@ -30,6 +30,7 @@ Este é o primeiro projeto que deve ser rodado ao inciarmos nossa arquitetura de
 5 -> <a href="https://github.com/ValterGabriell/software-company-mscolaborators">Microserviço responsável pela criação dos colaboradores das squads</a></br>
 6 -> <a href="https://github.com/ValterGabriell/software-company-msjobs">Microserviço responsável pela criação dos trabalhos dos colaboradores</a></br>
 7 -> <a href="https://github.com/ValterGabriell/bank-system-gateway">Gateway para fazer o loadbalancer dos microserviços</a></br>
+7 -> <a href="https://github.com/ValterGabriell/software-company-msshopping">Micro serviço responsável por gerenciar as compras dos clientes.</a></br>
 
 
 
